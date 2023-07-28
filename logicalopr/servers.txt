@@ -1,0 +1,8 @@
+server_name,location,users,uptime
+Server1,US,100,365
+Server2,US,200,720
+Server3,EU,150,500
+Server4,ASIA,50,250
+Server5,EU,250,600
+Server6,ASIA,100,120
+Server7,US,300,900
