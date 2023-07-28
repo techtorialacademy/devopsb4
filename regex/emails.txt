@@ -1,0 +1,9 @@
+John Doe, johndoe@example.com
+Jane Smith, jane.smith@example.com
+"john.doe at example dot com"
+alice.example.com
+bob@example
+charlie@example.net
+"example.com"
+david@.com
+

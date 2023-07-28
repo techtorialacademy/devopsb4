@@ -1,0 +1,11 @@
+City:San Francisco
+Temperature:19
+Weather:Cloudy
+
+City:Los Angeles
+Temperature:28
+Weather:Sunny
+
+City:New York
+Temperature:7
+Weather:Snow

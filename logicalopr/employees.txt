@@ -1,0 +1,9 @@
+Alice,Marketing,Active
+Bob,IT,On leave
+Charlie,Sales,Active
+David,IT,Inactive
+Emily,Marketing,On leave
+Frank,IT,Active
+Grace,Sales,Inactive
+Henry,Marketing,Active
+Irene,Sales,On leave

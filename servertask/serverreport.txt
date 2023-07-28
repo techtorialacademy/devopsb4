@@ -1,0 +1,7 @@
+server1, up, cpu=25%, mem=45%, disk=75%
+server2, down, cpu=90%, mem=95%, disk=70%
+server3, up, cpu=5%, mem=35%, disk=65%
+server4, down, cpu=80%, mem=70%, disk=80%
+server5, up, cpu=20%, mem=40%, disk=60%
+server6, down, cpu=75%, mem=90%, disk=90%
+server7, up, cpu=10%, mem=30%, disk=50%
