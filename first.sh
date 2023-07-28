@@ -1,5 +1,7 @@
 #!/bin/bash
 
-pwd
-echo $local
+
+ls
 echo $ENVARIABLE
+echo "This file has been altererd"
+
